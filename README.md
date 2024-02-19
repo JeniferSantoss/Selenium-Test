@@ -10,7 +10,7 @@
 </p>
 
 # Sobre 
-Este projeto é um conjunto de testes automatizados desenvolvidos em Java, utilizando Selenium e JUnit, para testar uma aplicação bancária. A aplicação bancária em questão é um sistema fictício desenvolvido para simular as funcionalidades básicas de um banco, como login, visualização de saldo, transações, entre outras.
+Este projeto é um conjunto de testes automatizados desenvolvidos em Java, utilizando Selenium e JUnit, para testar uma aplicação bancária. A aplicação bancária em questão é um sistema fictício desenvolvido para simular as funcionalidades básicas de um banco, como login, visualização de saldo, transações, entre outras. O objetivo principal deste projeto é garantir a qualidade e a integridade da aplicação.
 
 ---
 
