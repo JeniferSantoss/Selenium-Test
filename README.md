@@ -42,4 +42,4 @@ Certifique-se de que as dependências do projeto estejam configuradas corretamen
 
 ## Visualizando os Screenshots
 
-Após a execução dos testes, os screenshots serão salvos no diretório `screenshots` dentro do projeto. Você pode visualizar os screenshots para análise adicional.
+Após a execução dos testes, os screenshots serão salvos no diretório `\target\screenshot` dentro do projeto. Você pode visualizar os screenshots para análise adicional.
