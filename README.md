@@ -6,6 +6,7 @@
  <a href="#about">Sobre</a> •
  <a href="#how-it-works">Pré-requisitos</a> • 
  <a href="#tech-stack">Configuração do Projeto</a> • 
+ <a href="#tech-stack">Visualizando os Screenshots</a> • 
 </p>
 
 # Sobre 
@@ -38,3 +39,7 @@ Importe o projeto para a sua IDE Java preferida.
 Certifique-se de que as dependências do projeto estejam configuradas corretamente. Isso pode incluir a configuração do build path ou a utilização de ferramentas de gerenciamento de dependências, como o Maven.
 
 ---
+
+## Visualizando os Screenshots
+
+Após a execução dos testes, os screenshots serão salvos no diretório `screenshots` dentro do projeto. Você pode visualizar os screenshots para análise adicional.
