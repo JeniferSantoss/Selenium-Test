@@ -28,7 +28,7 @@ Este projeto é um conjunto de testes automatizados desenvolvidos em Java, utili
 
 1. Clonando o Repositório:
 ```
-git clone https://github.com/JeniferSantoss/Selenium-Test.git
+git clone git@github.com:JeniferSantoss/Selenium-Test.git
 ```
 2. Importando o Projeto na IDE:
 
