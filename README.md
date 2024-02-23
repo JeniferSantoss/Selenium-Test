@@ -43,3 +43,9 @@ Make sure that the project dependencies are configured correctly. This may inclu
 ## Viewing the Screenshots
 
 After running the tests, the screenshots will be saved in the `\target\screenshot` directory within the project. You can view the screenshots for further analysis.
+
+---
+
+## Contact
+
+If you have any questions or suggestions, you can contact me via email at: santos-jenifer@outlook.com ❄️.
