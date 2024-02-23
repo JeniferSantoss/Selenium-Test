@@ -6,7 +6,8 @@
  <a href="#about">About</a> •
  <a href="#how-it-works">Prerequisites</a> • 
  <a href="#tech-stack">Project Setup</a> • 
- <a href="#tech-stack">Viewing the Screenshots</a>  
+ <a href="#tech-stack">Viewing the Screenshots</a>  •
+ <a href="#tech-stack">Contact</a>
 </p>
 
 # About 
